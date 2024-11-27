@@ -20,7 +20,7 @@ By default, the app comes with a list of popular DNS servers in Iran.
 
 ## How to Use
 <b>1. Download and launch the application. [NetWizard.exe](https://github.com/2xAm1r/NetWizard/blob/main/NetWizard.exe)<b><br>
-<b>2. If features such as DNS are not applied, open the program with as administrator<b><br>
+<b>2. If features such as DNS are not applied, open the program with run as administrator<b><br>
 <b>3. The wifi password feature does not work on LAN, only wifi<b>
 
 ## Acknowledgments
